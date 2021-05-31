@@ -1,0 +1,50 @@
+*{
+background-color: white;
+color:#262626;
+
+
+}
+.yanMenu {
+width:200px;
+padding:20px;
+float:left;
+}
+
+ul  , h3{
+    list-style-type: none;
+
+    margin: 0;
+
+    padding: 0;
+
+    width: 200px;
+	
+	
+
+    background-color:#6F6E73 ;
+}
+
+li a {
+    display: block;
+
+    color:white;
+	background-color:#6F6E73 ;
+
+    padding: 8px 16px;
+
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #89888C;
+
+    color: white;
+}
+center {
+margin-left:100px;
+padding-top:0px;
+}
+h1 { 
+
+color: #262626
+}
